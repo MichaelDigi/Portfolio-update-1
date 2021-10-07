@@ -11,6 +11,6 @@
 ➕ Mobile-first design
 
 
-### Link to deployed site https://github.com/MichaelDigi/Portfolio-update-1
+### Link to deployed site https://michaeldigi.github.io/Portfolio-update-1/
 
 ![Screenshot](./assets/imgs/Capture.PNG)
